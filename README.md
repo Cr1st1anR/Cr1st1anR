@@ -5,3 +5,18 @@
 
 ## 👨‍💻 &nbsp;About me
 - Full Stack Developer with experience developing web applications using Node.js, Angular, TypeScript, Java, and Spring Boot. Knowledgeable in REST APIs, clean architecture, and best development practices focused on maintainable and scalable code. Familiar with testing tools such as Jest, JUnit, and Mockito, as well as cloud services like AWS and Azure. I am characterized by my proactive approach to challenges, organizing and executing tasks efficiently. I am constantly learning and staying up-to-date with technological trends to contribute to the development of innovative solutions.
+
+#### 🔧 Languages
+
+![TpeScript]((https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white))
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
