@@ -4,7 +4,7 @@
 </h3>
 
 ## 👨‍💻 &nbsp;About me
-- Full Stack Developer with experience developing web applications using Node.js, Angular, TypeScript, Java, and Spring Boot. Knowledgeable in REST APIs, clean architecture, and best development practices focused on maintainable and scalable code. Familiar with testing tools such as Jest, JUnit, and Mockito, as well as cloud services like AWS and Azure. I am characterized by my proactive approach to challenges, organizing and executing tasks efficiently. I am constantly learning and staying up-to-date with technological trends to contribute to the development of innovative solutions.
+- Systems Engineer with experience in Full Stack software development, working with Node.js, TypeScript, Angular, and Java/Spring Boot, applying best development practices to build maintainable and scalable software. I am characterized by being proactive, a quick learner, and an effective team player.
 
 #### 🔧 Languages
 
