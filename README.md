@@ -4,7 +4,7 @@
 </h3>
 
 ## 👨‍💻 &nbsp;About me
-- Systems Engineer with experience in Full Stack software development, working with Node.js, TypeScript, Angular, and Java/Spring Boot, applying best development practices to build maintainable and scalable software. I am characterized by being proactive, a quick learner, and an effective team player.
+- Systems Engineer with experience in full stack software development, working with Node.js, TypeScript, Angular, and Java/Spring Boot, applying best development practices to build maintainable and scalable software. I am characterized by being proactive, a quick learner, and an effective team player.
 
 #### 🔧 Languages
 
